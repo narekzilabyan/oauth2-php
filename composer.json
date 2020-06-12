@@ -17,7 +17,7 @@
     ],
     "repositories": [{
 	    "type": "vcs",
-	    "url": "https://github.com/narekzilabyan/FOSUserBundle.git"
+	    "url": "https://github.com/narekzilabyan/oauth2-php.git"
     }],
     "require": {
         "php": ">=5.3.2",
